@@ -1,19 +1,28 @@
 # Exercise-3d-Shaders
+
 Exercise for MSCH-C220
-The Third exercise adding "eyes following" features to a simple brick-breaker game.
-To play
-Move the paddle using the W and A. Help the ball break all the bricks before you run out of lives.
 
-Implementation
-Built using Unity 2022.3.45f
-References
-https://www.piskelapp.com
-Excercise 3d Videos 1 and 2
+The final step adding "juicy" features to a simple brick-breaker game.
 
-Future Development
-Animation State Machine, Juicy Brick-Breaker, Tile Maps and Levels, Enemies, Tilemap Coins, 2D Platform
 
-Created by
+## Implementation
+
+Built using Godot 2022.3.45f
+
+
+## References
+ * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+ * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
+ * [Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
+ * [Open Color open source color scheme](https://yeun.github.io/open-color/)
+ * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
+ * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
+
+
+## Future Development
+
+Power-ups, etc.
+
+## Created by 
 Eli Baker
-
 EliBaker22
